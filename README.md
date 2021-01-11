@@ -7,7 +7,7 @@ ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4F
 ## Prerequisites
 Recommended environment: Anaconda.
 
-Python: 3.7.2
+Python: 3.7
 
 PyTorch: 1.7.0
 
